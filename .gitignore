@@ -1,0 +1,6 @@
+*.swp
+/data.raw
+/build
+/src/monkey_typewriter
+/src/grow_bananas*
+/magic
